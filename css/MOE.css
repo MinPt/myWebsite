@@ -1,3 +1,24 @@
-.cont1{
-    background-color: blue;
+body{
+    background-color: #1a1a1a;
+}
+img{
+    height: 90vh;
+}
+.foo{
+    height: 25vh;
+}
+
+.boo{
+
+    display: flex;
+    padding: 0% 1%;
+}
+
+.goo{
+    color:white;
+    text-align: center;
+}
+
+#myGoo{
+    font-size: 1.5em;
 }
