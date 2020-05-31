@@ -1,24 +1,14 @@
 body{
     background-color: #1a1a1a;
+    color: white;
 }
-img{
-    height: 90vh;
+.blockShit{
+    height: 60vh;
 }
-.foo{
+.blockShit-sm{
     height: 25vh;
 }
 
-.boo{
-
-    display: flex;
-    padding: 0% 1%;
-}
-
-.goo{
-    color:white;
-    text-align: center;
-}
-
-#myGoo{
-    font-size: 1.5em;
+.govnoed{
+    background-color: blue;
 }
